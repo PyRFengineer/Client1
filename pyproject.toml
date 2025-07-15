@@ -1,0 +1,10 @@
+[project]
+name = "uvtest"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "flet[all]==0.28.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+]
